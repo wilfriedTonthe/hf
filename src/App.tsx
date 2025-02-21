@@ -114,7 +114,7 @@ function App() {
                  controls
                  poster={images[0]}
                >
-                 <source src="vf1.mp4" type="video/mp4" />
+                 <source src="vf2.mp4" type="video/mp4" />
                  Votre navigateur ne supporte pas la lecture de vidéos.
                </video>
              </div>
